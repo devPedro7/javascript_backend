@@ -1,0 +1,18 @@
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+.anima{
+    transition: 1s;
+    margin-left: 100px;
+    background-color: red;
+}
+
+.anima_volta{
+    transition: 1s;
+    margin-left: 50px;
+    background-color: green;
+}
